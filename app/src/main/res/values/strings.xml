@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Translate Application</string>
+    <string name="API_KEY">trnsl.1.1.20200327T041341Z.24fb12e1084256c2.ac268dddd0caa392d0b1a8c0e4e78aca0d0c1eb3</string>
+    <string name="start_new_conversation">Percakapan</string>
+    <string name="start_new_translation">Translate</string>
+    <string name="about">Tentang App</string>
+    <string name="about_yandex">Powered by al-musaid</string>
+    <string name="new_conversation">Percakapan</string>
+    <string name="new_translate">Translate</string>
+    <string name="hint_text">Tekan untuk memasukan kata</string>
+    <string name="no_internet_connection">No Internet Connection Available</string>
+    <string name="speech_prompt">Berbicaralah</string>
+    <string name="language_pack_missing">Bahasa Belum Di Tambahkan</string>
+    <string name="language_not_supported">Bahasa Tidak Di Support</string>
+    <string name="select_matching_text">Pilih Pencarian</string>
+    <string name="process_tts">Pindah Bahasa</string>
+    <string name="no_text">Text Kosong</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
